@@ -18,8 +18,8 @@ An HTML and CSS project using flexbox with flexible widths and heights for respo
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-A0x-lZ38_n)
-- Live Site URL: (https://hilarious-sable-1e6010.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-pnAFeXskxY)
+- Live Site URL: (https://timely-moxie-755ec3.netlify.app/)
 
 ### Built with
 
