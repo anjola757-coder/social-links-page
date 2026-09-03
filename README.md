@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -14,7 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Overview
 An HTML and CSS project using flexbox with flexible widths and heights for responsiveness on various devices.
 ### Screenshot
-![Social links profile Solution](images/social-links-profile-screenshot.png)
+![Social links profile Solution](assets/images/social-links-profile-screenshot.png)
 
 ### Links
 
